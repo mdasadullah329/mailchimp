@@ -1,0 +1,49 @@
+*{padding:0px;margin:0px}
+
+div#titlea {
+    width: 377px;
+}
+
+div#title2 {
+    width: 259px;
+    margin-left: 0px;
+}
+
+div#menu {
+    width: 491px;
+    position: relative;
+}
+
+ul#manuall2 {
+    margin-left: 0px;
+    width: 152px;
+    padding: 21px -13px;
+}
+
+div#manuall {
+    margin-left: -45px;
+    width: 295px;
+    position: absolute;
+    background: #29649e;
+    margin-top: 55px;
+}
+
+div#title1 {
+    margin-left: 0px;
+}
+
+div#logo {
+    margin-left: -49px;
+    display: block;
+    overflow: hidden;
+    width: 299px;
+}
+
+div#manuall {
+    opacity: 0;
+}
+
+div#imgfirsta {
+    padding: 0px;
+    margin-top: 0px;
+}
